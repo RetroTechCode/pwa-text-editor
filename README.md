@@ -1,5 +1,7 @@
 # Just Another Text Editor
 
+![J.A.T.E. main page showing the logo and text saying "console.log("Hello World!")](./assets/images/JATE.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
